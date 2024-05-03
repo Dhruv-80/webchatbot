@@ -28,7 +28,7 @@ pip install -r requirements.txt
 4. Launch the Streamlit App:
 
 ```bash
-streamlit run llama3_local_rag.py
+streamlit run webapp.py
 ```
 
 ### How It Works
